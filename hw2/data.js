@@ -1,0 +1,95 @@
+let Social_software= [
+    {
+        "name":"週日",
+        "count":388
+    },
+    {
+        "name":"週一",
+        "count":360
+    },
+    {
+        "name":"週二",
+        "count":460
+    },
+    {
+        "name":"週三",
+        "count":505
+    },
+    {
+        "name":"週四",
+        "count":587
+    },
+    {
+        "name":"週五",
+        "count":384
+    },
+    {
+        "name":"週六",
+        "count":273
+    },
+    
+
+]
+let Game= [
+    {
+        "name":"週日",
+        "count":0
+    },
+    {
+        "name":"週一",
+        "count":90
+    },
+    {
+        "name":"週二",
+        "count":43
+    },
+    {
+        "name":"週三",
+        "count":59
+    },
+    {
+        "name":"週四",
+        "count":0
+    },
+    {
+        "name":"週五",
+        "count":43
+    },
+    {
+        "name":"週六",
+        "count":52
+    },
+    
+
+]
+let tool_program= [
+    {
+        "name":"週日",
+        "count":50
+    },
+    {
+        "name":"週一",
+        "count":128
+    },
+    {
+        "name":"週二",
+        "count":38
+    },
+    {
+        "name":"週三",
+        "count":20
+    },
+    {
+        "name":"週四",
+        "count":12
+    },
+    {
+        "name":"週五",
+        "count":140
+    },
+    {
+        "name":"週六",
+        "count":49
+    },
+    
+]
